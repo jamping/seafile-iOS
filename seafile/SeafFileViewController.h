@@ -37,6 +37,10 @@ enum {
 #define S_DOWNLOAD NSLocalizedString(@"Download", @"Seafile")
 #define S_PHOTOS_ALBUM NSLocalizedString(@"Save all photos to album", @"Seafile")
 #define S_SAVING_PHOTOS_ALBUM NSLocalizedString(@"Saving all photos to album", @"Seafile")
+#define S_SAVE_TO_ALBUM NSLocalizedString(@"Save to album", @"Seafile")
+#define S_COPYING_PHOTO NSLocalizedString(@"Copy image to clipboard", @"Seafile")
+#define S_OPEN_ELESWHERE NSLocalizedString(@"Open elsewhere...", "Seafile")
+#define S_SHARE_TO_WECHAT NSLocalizedString(@"Share to WeChat", "Seafile")
 
 #define S_PHOTOS_BROWSER NSLocalizedString(@"Open photo browser", @"Seafile")
 
